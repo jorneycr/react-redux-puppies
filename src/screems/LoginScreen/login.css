@@ -1,0 +1,16 @@
+.login-container{
+    background-color: aquamarine;
+    width: 100vh;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.login-card-form{
+    background-color: white;
+    border-radius: 0.5rem;
+    padding: 2rem;
+    font-family: 'Lily Script One', cursive;
+}
