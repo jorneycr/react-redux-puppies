@@ -1,4 +1,4 @@
-# React with Redux (Puppies APP) 
+# React with Redux (Puppies APP) https://puppies-redux.netlify.app/
 
 
 ## Available Scripts
