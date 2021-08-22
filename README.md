@@ -1,5 +1,7 @@
 # React with Redux (Puppies APP) https://puppies-redux.netlify.app/
 
+![image](https://user-images.githubusercontent.com/30164447/130370964-e63b2492-3f08-4ebe-ba7f-f88afb8054f8.png)
+
 
 ## Available Scripts
 
